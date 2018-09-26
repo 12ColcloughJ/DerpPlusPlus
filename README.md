@@ -26,7 +26,7 @@ Derp++ is a PHP Interpreter for a Brainfuck-ish Language, the difference is the 
 > if the valuue at the current cell is > 0, then instead of moving the instruction pointer forward to the next command, jump it back to the command after the matching WOOPY command.
 
 
-Useage
+Usage
 ======
 ```php
   $derp = new derpplusplus();
